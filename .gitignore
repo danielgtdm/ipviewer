@@ -1,0 +1,16 @@
+# Distribution
+dist
+node_modules
+
+# Logs
+*.log*
+logs
+
+# Environment
+*.env*
+
+# Misc
+.DS_Store
+
+# Data
+data.json
